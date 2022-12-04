@@ -6,7 +6,9 @@ As a big fan of Tolkien's works I decided to highlight the links between the cha
 
 First of all, I needed data. I decided to learn data mining in order to obtain complete and quality databases. After testing a few sites, Tolkien Gateway was the most appropriate (complete data, characters well separated from each other on each page...)
 This can be found in the data_scrapping file
-<img src="https://github.com/juldpnt/lotr-mining-viz/blob/main/img/tolkien_gateway_home_page.png?raw=true" width ="25%" align="center">
+<div align="center">
+<img src="https://github.com/juldpnt/lotr-mining-viz/blob/main/img/tolkien_gateway_home_page.png?raw=true" width ="25%">
+</div>
 
 ### Data engineering, natural language processing
 
