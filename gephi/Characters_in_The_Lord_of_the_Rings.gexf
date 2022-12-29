@@ -1,0 +1,997 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gexf xmlns="http://www.gexf.net/1.2draft" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.gexf.net/1.2draft http://www.gexf.net/1.2draft/gexf.xsd" version="1.2">
+  <meta lastmodifieddate="2022-12-29">
+    <creator>NetworkX 2.8.4</creator>
+  </meta>
+  <graph defaultedgetype="undirected" mode="static" name="">
+    <attributes mode="static" class="node">
+      <attribute id="0" title="community" type="long" />
+    </attributes>
+    <nodes>
+      <node id="Aragorn" label="Aragorn">
+        <attvalues>
+          <attvalue for="0" value="0" />
+        </attvalues>
+      </node>
+      <node id="Arwen" label="Arwen">
+        <attvalues>
+          <attvalue for="0" value="3" />
+        </attvalues>
+      </node>
+      <node id="Barliman Butterbur" label="Barliman Butterbur">
+        <attvalues>
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </node>
+      <node id="Bilbo Baggins" label="Bilbo Baggins">
+        <attvalues>
+          <attvalue for="0" value="2" />
+        </attvalues>
+      </node>
+      <node id="Bill Ferny" label="Bill Ferny">
+        <attvalues>
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </node>
+      <node id="Bob" label="Bob">
+        <attvalues>
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </node>
+      <node id="Boromir" label="Boromir">
+        <attvalues>
+          <attvalue for="0" value="0" />
+        </attvalues>
+      </node>
+      <node id="Celeborn" label="Celeborn">
+        <attvalues>
+          <attvalue for="0" value="0" />
+        </attvalues>
+      </node>
+      <node id="Denethor" label="Denethor">
+        <attvalues>
+          <attvalue for="0" value="0" />
+        </attvalues>
+      </node>
+      <node id="Durin's Bane" label="Durin's Bane">
+        <attvalues>
+          <attvalue for="0" value="0" />
+        </attvalues>
+      </node>
+      <node id="Elladan" label="Elladan">
+        <attvalues>
+          <attvalue for="0" value="3" />
+        </attvalues>
+      </node>
+      <node id="Elrohir" label="Elrohir">
+        <attvalues>
+          <attvalue for="0" value="3" />
+        </attvalues>
+      </node>
+      <node id="Elrond" label="Elrond">
+        <attvalues>
+          <attvalue for="0" value="3" />
+        </attvalues>
+      </node>
+      <node id="Faramir" label="Faramir">
+        <attvalues>
+          <attvalue for="0" value="2" />
+        </attvalues>
+      </node>
+      <node id="Forlong" label="Forlong">
+        <attvalues>
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </node>
+      <node id="Fredegar Bolger" label="Fredegar Bolger">
+        <attvalues>
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </node>
+      <node id="Frodo Baggins" label="Frodo Baggins">
+        <attvalues>
+          <attvalue for="0" value="2" />
+        </attvalues>
+      </node>
+      <node id="Galadriel" label="Galadriel">
+        <attvalues>
+          <attvalue for="0" value="0" />
+        </attvalues>
+      </node>
+      <node id="Galdor (elf of the Havens)" label="Galdor (elf of the Havens)">
+        <attvalues>
+          <attvalue for="0" value="3" />
+        </attvalues>
+      </node>
+      <node id="Gandalf" label="Gandalf">
+        <attvalues>
+          <attvalue for="0" value="0" />
+        </attvalues>
+      </node>
+      <node id="Gildor" label="Gildor">
+        <attvalues>
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </node>
+      <node id="Gimli" label="Gimli">
+        <attvalues>
+          <attvalue for="0" value="0" />
+        </attvalues>
+      </node>
+      <node id="Glorfindel" label="Glorfindel">
+        <attvalues>
+          <attvalue for="0" value="3" />
+        </attvalues>
+      </node>
+      <node id="Gollum" label="Gollum">
+        <attvalues>
+          <attvalue for="0" value="2" />
+        </attvalues>
+      </node>
+      <node id="Gwaihir" label="Gwaihir">
+        <attvalues>
+          <attvalue for="0" value="0" />
+        </attvalues>
+      </node>
+      <node id="Haldir" label="Haldir">
+        <attvalues>
+          <attvalue for="0" value="0" />
+        </attvalues>
+      </node>
+      <node id="Hound of Sauron" label="Hound of Sauron">
+        <attvalues>
+          <attvalue for="0" value="3" />
+        </attvalues>
+      </node>
+      <node id="Legolas" label="Legolas">
+        <attvalues>
+          <attvalue for="0" value="0" />
+        </attvalues>
+      </node>
+      <node id="Lindir" label="Lindir">
+        <attvalues>
+          <attvalue for="0" value="3" />
+        </attvalues>
+      </node>
+      <node id="Lotho Sackville-Baggins" label="Lotho Sackville-Baggins">
+        <attvalues>
+          <attvalue for="0" value="2" />
+        </attvalues>
+      </node>
+      <node id="Meriadoc Brandybuck" label="Meriadoc Brandybuck">
+        <attvalues>
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </node>
+      <node id="Mr. Mugwort" label="Mr. Mugwort">
+        <attvalues>
+          <attvalue for="0" value="2" />
+        </attvalues>
+      </node>
+      <node id="Nazgûl" label="Nazgûl">
+        <attvalues>
+          <attvalue for="0" value="3" />
+        </attvalues>
+      </node>
+      <node id="Nob" label="Nob">
+        <attvalues>
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </node>
+      <node id="Oathbreakers" label="Oathbreakers">
+        <attvalues>
+          <attvalue for="0" value="0" />
+        </attvalues>
+      </node>
+      <node id="Peregrin Took" label="Peregrin Took">
+        <attvalues>
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </node>
+      <node id="Radagast" label="Radagast">
+        <attvalues>
+          <attvalue for="0" value="3" />
+        </attvalues>
+      </node>
+      <node id="Samwise Gamgee" label="Samwise Gamgee">
+        <attvalues>
+          <attvalue for="0" value="2" />
+        </attvalues>
+      </node>
+      <node id="Saruman" label="Saruman">
+        <attvalues>
+          <attvalue for="0" value="0" />
+        </attvalues>
+      </node>
+      <node id="Sauron" label="Sauron">
+        <attvalues>
+          <attvalue for="0" value="3" />
+        </attvalues>
+      </node>
+      <node id="Ted Sandyman" label="Ted Sandyman">
+        <attvalues>
+          <attvalue for="0" value="2" />
+        </attvalues>
+      </node>
+      <node id="Thranduil" label="Thranduil">
+        <attvalues>
+          <attvalue for="0" value="3" />
+        </attvalues>
+      </node>
+      <node id="Tom Bombadil" label="Tom Bombadil">
+        <attvalues>
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </node>
+      <node id="Treebeard" label="Treebeard">
+        <attvalues>
+          <attvalue for="0" value="0" />
+        </attvalues>
+      </node>
+      <node id="Watcher in the Water" label="Watcher in the Water">
+        <attvalues>
+          <attvalue for="0" value="0" />
+        </attvalues>
+      </node>
+      <node id="Goldberry" label="Goldberry">
+        <attvalues>
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </node>
+      <node id="Barrow-wights" label="Barrow-wights">
+        <attvalues>
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </node>
+      <node id="Erestor" label="Erestor">
+        <attvalues>
+          <attvalue for="0" value="3" />
+        </attvalues>
+      </node>
+      <node id="Daddy Twofoot" label="Daddy Twofoot">
+        <attvalues>
+          <attvalue for="0" value="2" />
+        </attvalues>
+      </node>
+      <node id="Farmer Maggot" label="Farmer Maggot">
+        <attvalues>
+          <attvalue for="0" value="2" />
+        </attvalues>
+      </node>
+      <node id="Folco Boffin" label="Folco Boffin">
+        <attvalues>
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </node>
+      <node id="Gaffer Gamgee" label="Gaffer Gamgee">
+        <attvalues>
+          <attvalue for="0" value="2" />
+        </attvalues>
+      </node>
+      <node id="Hirluin" label="Hirluin">
+        <attvalues>
+          <attvalue for="0" value="0" />
+        </attvalues>
+      </node>
+      <node id="Imrahil" label="Imrahil">
+        <attvalues>
+          <attvalue for="0" value="0" />
+        </attvalues>
+      </node>
+      <node id="Lobelia Sackville-Baggins" label="Lobelia Sackville-Baggins">
+        <attvalues>
+          <attvalue for="0" value="2" />
+        </attvalues>
+      </node>
+      <node id="Mat Heathertoes" label="Mat Heathertoes">
+        <attvalues>
+          <attvalue for="0" value="2" />
+        </attvalues>
+      </node>
+      <node id="Mrs Maggot" label="Mrs Maggot">
+        <attvalues>
+          <attvalue for="0" value="2" />
+        </attvalues>
+      </node>
+      <node id="Odo Proudfoot" label="Odo Proudfoot">
+        <attvalues>
+          <attvalue for="0" value="2" />
+        </attvalues>
+      </node>
+      <node id="Old Noakes" label="Old Noakes">
+        <attvalues>
+          <attvalue for="0" value="2" />
+        </attvalues>
+      </node>
+      <node id="Otho Sackville-Baggins" label="Otho Sackville-Baggins">
+        <attvalues>
+          <attvalue for="0" value="2" />
+        </attvalues>
+      </node>
+      <node id="Sancho Proudfoot" label="Sancho Proudfoot">
+        <attvalues>
+          <attvalue for="0" value="2" />
+        </attvalues>
+      </node>
+      <node id="Húrin (Warden of the Keys)" label="Húrin (Warden of the Keys)">
+        <attvalues>
+          <attvalue for="0" value="3" />
+        </attvalues>
+      </node>
+      <node id="Nameless things" label="Nameless things">
+        <attvalues>
+          <attvalue for="0" value="3" />
+        </attvalues>
+      </node>
+      <node id="Círdan" label="Círdan">
+        <attvalues>
+          <attvalue for="0" value="3" />
+        </attvalues>
+      </node>
+      <node id="Orophin" label="Orophin">
+        <attvalues>
+          <attvalue for="0" value="0" />
+        </attvalues>
+      </node>
+      <node id="Old Man Willow" label="Old Man Willow">
+        <attvalues>
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </node>
+    </nodes>
+    <edges>
+      <edge source="Aragorn" target="Arwen" id="0" weight="10" />
+      <edge source="Aragorn" target="Barliman Butterbur" id="1" weight="8" />
+      <edge source="Aragorn" target="Bilbo Baggins" id="2" weight="33" />
+      <edge source="Aragorn" target="Bill Ferny" id="3" weight="11" />
+      <edge source="Aragorn" target="Bob" id="4" weight="4" />
+      <edge source="Aragorn" target="Boromir" id="5" weight="72" />
+      <edge source="Aragorn" target="Celeborn" id="6" weight="15" />
+      <edge source="Aragorn" target="Denethor" id="7" weight="19" />
+      <edge source="Aragorn" target="Durin's Bane" id="8" weight="6" />
+      <edge source="Aragorn" target="Elladan" id="9" weight="8" />
+      <edge source="Aragorn" target="Elrohir" id="10" weight="10" />
+      <edge source="Aragorn" target="Elrond" id="11" weight="63" />
+      <edge source="Aragorn" target="Faramir" id="12" weight="28" />
+      <edge source="Aragorn" target="Forlong" id="13" weight="6" />
+      <edge source="Aragorn" target="Fredegar Bolger" id="14" weight="1" />
+      <edge source="Aragorn" target="Frodo Baggins" id="15" weight="148" />
+      <edge source="Aragorn" target="Galadriel" id="16" weight="23" />
+      <edge source="Aragorn" target="Galdor (elf of the Havens)" id="17" weight="1" />
+      <edge source="Aragorn" target="Gandalf" id="18" weight="179" />
+      <edge source="Aragorn" target="Gildor" id="19" weight="1" />
+      <edge source="Aragorn" target="Gimli" id="20" weight="138" />
+      <edge source="Aragorn" target="Glorfindel" id="21" weight="11" />
+      <edge source="Aragorn" target="Gollum" id="22" weight="14" />
+      <edge source="Aragorn" target="Gwaihir" id="23" weight="5" />
+      <edge source="Aragorn" target="Haldir" id="24" weight="6" />
+      <edge source="Aragorn" target="Hound of Sauron" id="25" weight="1" />
+      <edge source="Aragorn" target="Legolas" id="26" weight="129" />
+      <edge source="Aragorn" target="Lindir" id="27" weight="1" />
+      <edge source="Aragorn" target="Lotho Sackville-Baggins" id="28" weight="1" />
+      <edge source="Aragorn" target="Meriadoc Brandybuck" id="29" weight="91" />
+      <edge source="Aragorn" target="Mr. Mugwort" id="30" weight="30" />
+      <edge source="Aragorn" target="Nazgûl" id="31" weight="17" />
+      <edge source="Aragorn" target="Nob" id="32" weight="10" />
+      <edge source="Aragorn" target="Oathbreakers" id="33" weight="25" />
+      <edge source="Aragorn" target="Peregrin Took" id="34" weight="100" />
+      <edge source="Aragorn" target="Radagast" id="35" weight="2" />
+      <edge source="Aragorn" target="Samwise Gamgee" id="36" weight="103" />
+      <edge source="Aragorn" target="Saruman" id="37" weight="79" />
+      <edge source="Aragorn" target="Sauron" id="38" weight="43" />
+      <edge source="Aragorn" target="Ted Sandyman" id="39" weight="1" />
+      <edge source="Aragorn" target="Thranduil" id="40" weight="3" />
+      <edge source="Aragorn" target="Tom Bombadil" id="41" weight="4" />
+      <edge source="Aragorn" target="Treebeard" id="42" weight="35" />
+      <edge source="Aragorn" target="Watcher in the Water" id="43" weight="1" />
+      <edge source="Arwen" target="Bilbo Baggins" id="44" weight="5" />
+      <edge source="Arwen" target="Boromir" id="45" weight="1" />
+      <edge source="Arwen" target="Celeborn" id="46" weight="4" />
+      <edge source="Arwen" target="Elladan" id="47" weight="3" />
+      <edge source="Arwen" target="Elrohir" id="48" weight="3" />
+      <edge source="Arwen" target="Elrond" id="49" weight="9" />
+      <edge source="Arwen" target="Faramir" id="50" weight="3" />
+      <edge source="Arwen" target="Frodo Baggins" id="51" weight="9" />
+      <edge source="Arwen" target="Galadriel" id="52" weight="4" />
+      <edge source="Arwen" target="Gandalf" id="53" weight="5" />
+      <edge source="Arwen" target="Glorfindel" id="54" weight="2" />
+      <edge source="Arwen" target="Haldir" id="55" weight="1" />
+      <edge source="Arwen" target="Legolas" id="56" weight="4" />
+      <edge source="Arwen" target="Meriadoc Brandybuck" id="57" weight="3" />
+      <edge source="Arwen" target="Peregrin Took" id="58" weight="2" />
+      <edge source="Arwen" target="Samwise Gamgee" id="59" weight="4" />
+      <edge source="Arwen" target="Sauron" id="60" weight="1" />
+      <edge source="Barliman Butterbur" target="Bilbo Baggins" id="61" weight="1" />
+      <edge source="Barliman Butterbur" target="Bill Ferny" id="62" weight="3" />
+      <edge source="Barliman Butterbur" target="Bob" id="63" weight="3" />
+      <edge source="Barliman Butterbur" target="Elrond" id="64" weight="1" />
+      <edge source="Barliman Butterbur" target="Frodo Baggins" id="65" weight="12" />
+      <edge source="Barliman Butterbur" target="Gandalf" id="66" weight="9" />
+      <edge source="Barliman Butterbur" target="Glorfindel" id="67" weight="1" />
+      <edge source="Barliman Butterbur" target="Goldberry" id="68" weight="1" />
+      <edge source="Barliman Butterbur" target="Meriadoc Brandybuck" id="69" weight="3" />
+      <edge source="Barliman Butterbur" target="Mr. Mugwort" id="70" weight="11" />
+      <edge source="Barliman Butterbur" target="Nazgûl" id="71" weight="1" />
+      <edge source="Barliman Butterbur" target="Nob" id="72" weight="7" />
+      <edge source="Barliman Butterbur" target="Peregrin Took" id="73" weight="6" />
+      <edge source="Barliman Butterbur" target="Samwise Gamgee" id="74" weight="9" />
+      <edge source="Barliman Butterbur" target="Tom Bombadil" id="75" weight="3" />
+      <edge source="Bilbo Baggins" target="Barrow-wights" id="76" weight="2" />
+      <edge source="Bilbo Baggins" target="Boromir" id="77" weight="8" />
+      <edge source="Bilbo Baggins" target="Celeborn" id="78" weight="2" />
+      <edge source="Bilbo Baggins" target="Daddy Twofoot" id="79" weight="1" />
+      <edge source="Bilbo Baggins" target="Denethor" id="80" weight="2" />
+      <edge source="Bilbo Baggins" target="Durin's Bane" id="81" weight="1" />
+      <edge source="Bilbo Baggins" target="Elladan" id="82" weight="1" />
+      <edge source="Bilbo Baggins" target="Elrohir" id="83" weight="2" />
+      <edge source="Bilbo Baggins" target="Elrond" id="84" weight="32" />
+      <edge source="Bilbo Baggins" target="Erestor" id="85" weight="2" />
+      <edge source="Bilbo Baggins" target="Faramir" id="86" weight="5" />
+      <edge source="Bilbo Baggins" target="Farmer Maggot" id="87" weight="4" />
+      <edge source="Bilbo Baggins" target="Folco Boffin" id="88" weight="2" />
+      <edge source="Bilbo Baggins" target="Forlong" id="89" weight="11" />
+      <edge source="Bilbo Baggins" target="Fredegar Bolger" id="90" weight="5" />
+      <edge source="Bilbo Baggins" target="Frodo Baggins" id="91" weight="109" />
+      <edge source="Bilbo Baggins" target="Gaffer Gamgee" id="92" weight="6" />
+      <edge source="Bilbo Baggins" target="Galadriel" id="93" weight="5" />
+      <edge source="Bilbo Baggins" target="Galdor (elf of the Havens)" id="94" weight="3" />
+      <edge source="Bilbo Baggins" target="Gandalf" id="95" weight="71" />
+      <edge source="Bilbo Baggins" target="Gildor" id="96" weight="4" />
+      <edge source="Bilbo Baggins" target="Gimli" id="97" weight="14" />
+      <edge source="Bilbo Baggins" target="Glorfindel" id="98" weight="2" />
+      <edge source="Bilbo Baggins" target="Gollum" id="99" weight="18" />
+      <edge source="Bilbo Baggins" target="Gwaihir" id="100" weight="1" />
+      <edge source="Bilbo Baggins" target="Haldir" id="101" weight="1" />
+      <edge source="Bilbo Baggins" target="Hirluin" id="102" weight="2" />
+      <edge source="Bilbo Baggins" target="Imrahil" id="103" weight="3" />
+      <edge source="Bilbo Baggins" target="Legolas" id="104" weight="7" />
+      <edge source="Bilbo Baggins" target="Lindir" id="105" weight="1" />
+      <edge source="Bilbo Baggins" target="Lobelia Sackville-Baggins" id="106" weight="6" />
+      <edge source="Bilbo Baggins" target="Lotho Sackville-Baggins" id="107" weight="2" />
+      <edge source="Bilbo Baggins" target="Mat Heathertoes" id="108" weight="3" />
+      <edge source="Bilbo Baggins" target="Meriadoc Brandybuck" id="109" weight="30" />
+      <edge source="Bilbo Baggins" target="Mr. Mugwort" id="110" weight="27" />
+      <edge source="Bilbo Baggins" target="Mrs Maggot" id="111" weight="2" />
+      <edge source="Bilbo Baggins" target="Nazgûl" id="112" weight="7" />
+      <edge source="Bilbo Baggins" target="Nob" id="113" weight="1" />
+      <edge source="Bilbo Baggins" target="Oathbreakers" id="114" weight="1" />
+      <edge source="Bilbo Baggins" target="Odo Proudfoot" id="115" weight="2" />
+      <edge source="Bilbo Baggins" target="Old Noakes" id="116" weight="2" />
+      <edge source="Bilbo Baggins" target="Otho Sackville-Baggins" id="117" weight="4" />
+      <edge source="Bilbo Baggins" target="Peregrin Took" id="118" weight="30" />
+      <edge source="Bilbo Baggins" target="Samwise Gamgee" id="119" weight="52" />
+      <edge source="Bilbo Baggins" target="Sancho Proudfoot" id="120" weight="1" />
+      <edge source="Bilbo Baggins" target="Saruman" id="121" weight="16" />
+      <edge source="Bilbo Baggins" target="Sauron" id="122" weight="10" />
+      <edge source="Bilbo Baggins" target="Ted Sandyman" id="123" weight="2" />
+      <edge source="Bilbo Baggins" target="Thranduil" id="124" weight="2" />
+      <edge source="Bilbo Baggins" target="Tom Bombadil" id="125" weight="3" />
+      <edge source="Bill Ferny" target="Bob" id="126" weight="3" />
+      <edge source="Bill Ferny" target="Elrond" id="127" weight="1" />
+      <edge source="Bill Ferny" target="Fredegar Bolger" id="128" weight="1" />
+      <edge source="Bill Ferny" target="Frodo Baggins" id="129" weight="11" />
+      <edge source="Bill Ferny" target="Gandalf" id="130" weight="7" />
+      <edge source="Bill Ferny" target="Glorfindel" id="131" weight="1" />
+      <edge source="Bill Ferny" target="Meriadoc Brandybuck" id="132" weight="8" />
+      <edge source="Bill Ferny" target="Mr. Mugwort" id="133" weight="10" />
+      <edge source="Bill Ferny" target="Nazgûl" id="134" weight="1" />
+      <edge source="Bill Ferny" target="Nob" id="135" weight="5" />
+      <edge source="Bill Ferny" target="Peregrin Took" id="136" weight="9" />
+      <edge source="Bill Ferny" target="Samwise Gamgee" id="137" weight="10" />
+      <edge source="Bill Ferny" target="Tom Bombadil" id="138" weight="1" />
+      <edge source="Bob" target="Fredegar Bolger" id="139" weight="1" />
+      <edge source="Bob" target="Frodo Baggins" id="140" weight="5" />
+      <edge source="Bob" target="Meriadoc Brandybuck" id="141" weight="3" />
+      <edge source="Bob" target="Mr. Mugwort" id="142" weight="5" />
+      <edge source="Bob" target="Nob" id="143" weight="4" />
+      <edge source="Bob" target="Peregrin Took" id="144" weight="3" />
+      <edge source="Bob" target="Samwise Gamgee" id="145" weight="4" />
+      <edge source="Bob" target="Tom Bombadil" id="146" weight="1" />
+      <edge source="Boromir" target="Celeborn" id="147" weight="6" />
+      <edge source="Boromir" target="Denethor" id="148" weight="25" />
+      <edge source="Boromir" target="Durin's Bane" id="149" weight="4" />
+      <edge source="Boromir" target="Elrond" id="150" weight="19" />
+      <edge source="Boromir" target="Erestor" id="151" weight="2" />
+      <edge source="Boromir" target="Frodo Baggins" id="152" weight="64" />
+      <edge source="Boromir" target="Galadriel" id="153" weight="10" />
+      <edge source="Boromir" target="Galdor (elf of the Havens)" id="154" weight="2" />
+      <edge source="Boromir" target="Gandalf" id="155" weight="67" />
+      <edge source="Boromir" target="Gimli" id="156" weight="44" />
+      <edge source="Boromir" target="Glorfindel" id="157" weight="2" />
+      <edge source="Boromir" target="Gollum" id="158" weight="5" />
+      <edge source="Boromir" target="Gwaihir" id="159" weight="2" />
+      <edge source="Boromir" target="Haldir" id="160" weight="1" />
+      <edge source="Boromir" target="Hound of Sauron" id="161" weight="1" />
+      <edge source="Boromir" target="Húrin (Warden of the Keys)" id="162" weight="2" />
+      <edge source="Boromir" target="Legolas" id="163" weight="40" />
+      <edge source="Boromir" target="Lotho Sackville-Baggins" id="164" weight="1" />
+      <edge source="Boromir" target="Meriadoc Brandybuck" id="165" weight="20" />
+      <edge source="Boromir" target="Mr. Mugwort" id="166" weight="8" />
+      <edge source="Boromir" target="Nameless things" id="167" weight="2" />
+      <edge source="Boromir" target="Nazgûl" id="168" weight="5" />
+      <edge source="Boromir" target="Oathbreakers" id="169" weight="3" />
+      <edge source="Boromir" target="Peregrin Took" id="170" weight="35" />
+      <edge source="Boromir" target="Radagast" id="171" weight="1" />
+      <edge source="Boromir" target="Samwise Gamgee" id="172" weight="40" />
+      <edge source="Boromir" target="Saruman" id="173" weight="25" />
+      <edge source="Boromir" target="Sauron" id="174" weight="18" />
+      <edge source="Boromir" target="Ted Sandyman" id="175" weight="1" />
+      <edge source="Boromir" target="Thranduil" id="176" weight="2" />
+      <edge source="Boromir" target="Tom Bombadil" id="177" weight="1" />
+      <edge source="Boromir" target="Treebeard" id="178" weight="5" />
+      <edge source="Boromir" target="Watcher in the Water" id="179" weight="1" />
+      <edge source="Celeborn" target="Durin's Bane" id="180" weight="1" />
+      <edge source="Celeborn" target="Elrond" id="181" weight="5" />
+      <edge source="Celeborn" target="Faramir" id="182" weight="1" />
+      <edge source="Celeborn" target="Frodo Baggins" id="183" weight="12" />
+      <edge source="Celeborn" target="Galadriel" id="184" weight="18" />
+      <edge source="Celeborn" target="Gandalf" id="185" weight="8" />
+      <edge source="Celeborn" target="Gimli" id="186" weight="8" />
+      <edge source="Celeborn" target="Haldir" id="187" weight="4" />
+      <edge source="Celeborn" target="Legolas" id="188" weight="11" />
+      <edge source="Celeborn" target="Meriadoc Brandybuck" id="189" weight="6" />
+      <edge source="Celeborn" target="Oathbreakers" id="190" weight="1" />
+      <edge source="Celeborn" target="Peregrin Took" id="191" weight="6" />
+      <edge source="Celeborn" target="Samwise Gamgee" id="192" weight="6" />
+      <edge source="Celeborn" target="Saruman" id="193" weight="6" />
+      <edge source="Celeborn" target="Sauron" id="194" weight="2" />
+      <edge source="Celeborn" target="Thranduil" id="195" weight="1" />
+      <edge source="Celeborn" target="Treebeard" id="196" weight="6" />
+      <edge source="Denethor" target="Elrond" id="197" weight="5" />
+      <edge source="Denethor" target="Frodo Baggins" id="198" weight="11" />
+      <edge source="Denethor" target="Gandalf" id="199" weight="48" />
+      <edge source="Denethor" target="Gollum" id="200" weight="1" />
+      <edge source="Denethor" target="Saruman" id="201" weight="17" />
+      <edge source="Denethor" target="Sauron" id="202" weight="9" />
+      <edge source="Durin's Bane" target="Frodo Baggins" id="203" weight="4" />
+      <edge source="Durin's Bane" target="Galadriel" id="204" weight="2" />
+      <edge source="Durin's Bane" target="Gandalf" id="205" weight="6" />
+      <edge source="Durin's Bane" target="Gimli" id="206" weight="5" />
+      <edge source="Durin's Bane" target="Legolas" id="207" weight="4" />
+      <edge source="Durin's Bane" target="Mat Heathertoes" id="208" weight="1" />
+      <edge source="Durin's Bane" target="Mr. Mugwort" id="209" weight="1" />
+      <edge source="Durin's Bane" target="Samwise Gamgee" id="210" weight="3" />
+      <edge source="Durin's Bane" target="Saruman" id="211" weight="2" />
+      <edge source="Durin's Bane" target="Sauron" id="212" weight="2" />
+      <edge source="Elladan" target="Elrohir" id="213" weight="6" />
+      <edge source="Elladan" target="Elrond" id="214" weight="5" />
+      <edge source="Elladan" target="Frodo Baggins" id="215" weight="3" />
+      <edge source="Elladan" target="Gollum" id="216" weight="1" />
+      <edge source="Elladan" target="Nazgûl" id="217" weight="1" />
+      <edge source="Elladan" target="Radagast" id="218" weight="1" />
+      <edge source="Elladan" target="Samwise Gamgee" id="219" weight="1" />
+      <edge source="Elrohir" target="Elrond" id="220" weight="7" />
+      <edge source="Elrohir" target="Frodo Baggins" id="221" weight="4" />
+      <edge source="Elrohir" target="Gandalf" id="222" weight="4" />
+      <edge source="Elrohir" target="Gollum" id="223" weight="1" />
+      <edge source="Elrohir" target="Meriadoc Brandybuck" id="224" weight="4" />
+      <edge source="Elrohir" target="Nazgûl" id="225" weight="1" />
+      <edge source="Elrohir" target="Peregrin Took" id="226" weight="2" />
+      <edge source="Elrohir" target="Radagast" id="227" weight="1" />
+      <edge source="Elrohir" target="Samwise Gamgee" id="228" weight="2" />
+      <edge source="Elrond" target="Barrow-wights" id="229" weight="1" />
+      <edge source="Elrond" target="Círdan" id="230" weight="1" />
+      <edge source="Elrond" target="Erestor" id="231" weight="5" />
+      <edge source="Elrond" target="Faramir" id="232" weight="11" />
+      <edge source="Elrond" target="Forlong" id="233" weight="7" />
+      <edge source="Elrond" target="Frodo Baggins" id="234" weight="70" />
+      <edge source="Elrond" target="Galadriel" id="235" weight="11" />
+      <edge source="Elrond" target="Galdor (elf of the Havens)" id="236" weight="4" />
+      <edge source="Elrond" target="Gandalf" id="237" weight="68" />
+      <edge source="Elrond" target="Gimli" id="238" weight="25" />
+      <edge source="Elrond" target="Glorfindel" id="239" weight="13" />
+      <edge source="Elrond" target="Gollum" id="240" weight="9" />
+      <edge source="Elrond" target="Gwaihir" id="241" weight="1" />
+      <edge source="Elrond" target="Haldir" id="242" weight="3" />
+      <edge source="Elrond" target="Hirluin" id="243" weight="1" />
+      <edge source="Elrond" target="Hound of Sauron" id="244" weight="1" />
+      <edge source="Elrond" target="Húrin (Warden of the Keys)" id="245" weight="1" />
+      <edge source="Elrond" target="Imrahil" id="246" weight="9" />
+      <edge source="Elrond" target="Legolas" id="247" weight="24" />
+      <edge source="Elrond" target="Lindir" id="248" weight="1" />
+      <edge source="Elrond" target="Lobelia Sackville-Baggins" id="249" weight="1" />
+      <edge source="Elrond" target="Lotho Sackville-Baggins" id="250" weight="1" />
+      <edge source="Elrond" target="Meriadoc Brandybuck" id="251" weight="26" />
+      <edge source="Elrond" target="Mr. Mugwort" id="252" weight="10" />
+      <edge source="Elrond" target="Nameless things" id="253" weight="2" />
+      <edge source="Elrond" target="Nazgûl" id="254" weight="13" />
+      <edge source="Elrond" target="Oathbreakers" id="255" weight="6" />
+      <edge source="Elrond" target="Orophin" id="256" weight="1" />
+      <edge source="Elrond" target="Otho Sackville-Baggins" id="257" weight="1" />
+      <edge source="Elrond" target="Peregrin Took" id="258" weight="25" />
+      <edge source="Elrond" target="Radagast" id="259" weight="2" />
+      <edge source="Elrond" target="Samwise Gamgee" id="260" weight="38" />
+      <edge source="Elrond" target="Saruman" id="261" weight="21" />
+      <edge source="Elrond" target="Sauron" id="262" weight="25" />
+      <edge source="Elrond" target="Thranduil" id="263" weight="4" />
+      <edge source="Elrond" target="Tom Bombadil" id="264" weight="4" />
+      <edge source="Faramir" target="Frodo Baggins" id="265" weight="49" />
+      <edge source="Faramir" target="Galadriel" id="266" weight="7" />
+      <edge source="Faramir" target="Sauron" id="267" weight="5" />
+      <edge source="Forlong" target="Barrow-wights" id="268" weight="1" />
+      <edge source="Forlong" target="Daddy Twofoot" id="269" weight="1" />
+      <edge source="Forlong" target="Erestor" id="270" weight="1" />
+      <edge source="Forlong" target="Farmer Maggot" id="271" weight="1" />
+      <edge source="Forlong" target="Folco Boffin" id="272" weight="1" />
+      <edge source="Forlong" target="Fredegar Bolger" id="273" weight="6" />
+      <edge source="Forlong" target="Frodo Baggins" id="274" weight="17" />
+      <edge source="Forlong" target="Gaffer Gamgee" id="275" weight="2" />
+      <edge source="Forlong" target="Galadriel" id="276" weight="3" />
+      <edge source="Forlong" target="Gandalf" id="277" weight="18" />
+      <edge source="Forlong" target="Meriadoc Brandybuck" id="278" weight="15" />
+      <edge source="Forlong" target="Mr. Mugwort" id="279" weight="7" />
+      <edge source="Forlong" target="Old Man Willow" id="280" weight="1" />
+      <edge source="Forlong" target="Old Noakes" id="281" weight="2" />
+      <edge source="Forlong" target="Peregrin Took" id="282" weight="15" />
+      <edge source="Forlong" target="Samwise Gamgee" id="283" weight="11" />
+      <edge source="Forlong" target="Saruman" id="284" weight="8" />
+      <edge source="Forlong" target="Sauron" id="285" weight="2" />
+      <edge source="Forlong" target="Ted Sandyman" id="286" weight="1" />
+      <edge source="Forlong" target="Tom Bombadil" id="287" weight="4" />
+      <edge source="Fredegar Bolger" target="Barrow-wights" id="288" weight="1" />
+      <edge source="Fredegar Bolger" target="Farmer Maggot" id="289" weight="2" />
+      <edge source="Fredegar Bolger" target="Folco Boffin" id="290" weight="3" />
+      <edge source="Fredegar Bolger" target="Frodo Baggins" id="291" weight="13" />
+      <edge source="Fredegar Bolger" target="Gandalf" id="292" weight="5" />
+      <edge source="Fredegar Bolger" target="Goldberry" id="293" weight="1" />
+      <edge source="Fredegar Bolger" target="Lobelia Sackville-Baggins" id="294" weight="1" />
+      <edge source="Fredegar Bolger" target="Lotho Sackville-Baggins" id="295" weight="1" />
+      <edge source="Fredegar Bolger" target="Meriadoc Brandybuck" id="296" weight="13" />
+      <edge source="Fredegar Bolger" target="Mr. Mugwort" id="297" weight="4" />
+      <edge source="Fredegar Bolger" target="Mrs Maggot" id="298" weight="1" />
+      <edge source="Fredegar Bolger" target="Nazgûl" id="299" weight="1" />
+      <edge source="Fredegar Bolger" target="Peregrin Took" id="300" weight="11" />
+      <edge source="Fredegar Bolger" target="Samwise Gamgee" id="301" weight="5" />
+      <edge source="Fredegar Bolger" target="Sauron" id="302" weight="1" />
+      <edge source="Fredegar Bolger" target="Tom Bombadil" id="303" weight="2" />
+      <edge source="Frodo Baggins" target="Barrow-wights" id="304" weight="4" />
+      <edge source="Frodo Baggins" target="Daddy Twofoot" id="305" weight="1" />
+      <edge source="Frodo Baggins" target="Erestor" id="306" weight="4" />
+      <edge source="Frodo Baggins" target="Farmer Maggot" id="307" weight="13" />
+      <edge source="Frodo Baggins" target="Folco Boffin" id="308" weight="3" />
+      <edge source="Frodo Baggins" target="Gaffer Gamgee" id="309" weight="15" />
+      <edge source="Frodo Baggins" target="Galadriel" id="310" weight="33" />
+      <edge source="Frodo Baggins" target="Galdor (elf of the Havens)" id="311" weight="3" />
+      <edge source="Frodo Baggins" target="Gandalf" id="312" weight="195" />
+      <edge source="Frodo Baggins" target="Gildor" id="313" weight="8" />
+      <edge source="Frodo Baggins" target="Gimli" id="314" weight="70" />
+      <edge source="Frodo Baggins" target="Glorfindel" id="315" weight="15" />
+      <edge source="Frodo Baggins" target="Goldberry" id="316" weight="12" />
+      <edge source="Frodo Baggins" target="Gollum" id="317" weight="103" />
+      <edge source="Frodo Baggins" target="Gwaihir" id="318" weight="6" />
+      <edge source="Frodo Baggins" target="Haldir" id="319" weight="14" />
+      <edge source="Frodo Baggins" target="Hirluin" id="320" weight="6" />
+      <edge source="Frodo Baggins" target="Húrin (Warden of the Keys)" id="321" weight="2" />
+      <edge source="Frodo Baggins" target="Imrahil" id="322" weight="8" />
+      <edge source="Frodo Baggins" target="Legolas" id="323" weight="53" />
+      <edge source="Frodo Baggins" target="Lindir" id="324" weight="1" />
+      <edge source="Frodo Baggins" target="Lobelia Sackville-Baggins" id="325" weight="9" />
+      <edge source="Frodo Baggins" target="Lotho Sackville-Baggins" id="326" weight="20" />
+      <edge source="Frodo Baggins" target="Mat Heathertoes" id="327" weight="2" />
+      <edge source="Frodo Baggins" target="Meriadoc Brandybuck" id="328" weight="118" />
+      <edge source="Frodo Baggins" target="Mr. Mugwort" id="329" weight="126" />
+      <edge source="Frodo Baggins" target="Mrs Maggot" id="330" weight="5" />
+      <edge source="Frodo Baggins" target="Nazgûl" id="331" weight="35" />
+      <edge source="Frodo Baggins" target="Nob" id="332" weight="12" />
+      <edge source="Frodo Baggins" target="Oathbreakers" id="333" weight="12" />
+      <edge source="Frodo Baggins" target="Odo Proudfoot" id="334" weight="2" />
+      <edge source="Frodo Baggins" target="Old Man Willow" id="335" weight="3" />
+      <edge source="Frodo Baggins" target="Old Noakes" id="336" weight="2" />
+      <edge source="Frodo Baggins" target="Orophin" id="337" weight="2" />
+      <edge source="Frodo Baggins" target="Otho Sackville-Baggins" id="338" weight="5" />
+      <edge source="Frodo Baggins" target="Peregrin Took" id="339" weight="138" />
+      <edge source="Frodo Baggins" target="Radagast" id="340" weight="4" />
+      <edge source="Frodo Baggins" target="Samwise Gamgee" id="341" weight="332" />
+      <edge source="Frodo Baggins" target="Sancho Proudfoot" id="342" weight="1" />
+      <edge source="Frodo Baggins" target="Saruman" id="343" weight="45" />
+      <edge source="Frodo Baggins" target="Sauron" id="344" weight="43" />
+      <edge source="Frodo Baggins" target="Ted Sandyman" id="345" weight="6" />
+      <edge source="Frodo Baggins" target="Thranduil" id="346" weight="3" />
+      <edge source="Frodo Baggins" target="Tom Bombadil" id="347" weight="17" />
+      <edge source="Frodo Baggins" target="Treebeard" id="348" weight="7" />
+      <edge source="Galadriel" target="Gandalf" id="349" weight="23" />
+      <edge source="Galadriel" target="Gimli" id="350" weight="16" />
+      <edge source="Galadriel" target="Haldir" id="351" weight="4" />
+      <edge source="Galadriel" target="Legolas" id="352" weight="18" />
+      <edge source="Galadriel" target="Meriadoc Brandybuck" id="353" weight="12" />
+      <edge source="Galadriel" target="Mr. Mugwort" id="354" weight="8" />
+      <edge source="Galadriel" target="Nazgûl" id="355" weight="4" />
+      <edge source="Galadriel" target="Oathbreakers" id="356" weight="2" />
+      <edge source="Galadriel" target="Peregrin Took" id="357" weight="10" />
+      <edge source="Galadriel" target="Samwise Gamgee" id="358" weight="27" />
+      <edge source="Galadriel" target="Saruman" id="359" weight="13" />
+      <edge source="Galadriel" target="Sauron" id="360" weight="7" />
+      <edge source="Galadriel" target="Ted Sandyman" id="361" weight="1" />
+      <edge source="Galadriel" target="Thranduil" id="362" weight="1" />
+      <edge source="Galadriel" target="Treebeard" id="363" weight="8" />
+      <edge source="Galdor (elf of the Havens)" target="Círdan" id="364" weight="1" />
+      <edge source="Galdor (elf of the Havens)" target="Erestor" id="365" weight="2" />
+      <edge source="Galdor (elf of the Havens)" target="Gandalf" id="366" weight="5" />
+      <edge source="Galdor (elf of the Havens)" target="Glorfindel" id="367" weight="2" />
+      <edge source="Galdor (elf of the Havens)" target="Gollum" id="368" weight="2" />
+      <edge source="Galdor (elf of the Havens)" target="Legolas" id="369" weight="2" />
+      <edge source="Galdor (elf of the Havens)" target="Nazgûl" id="370" weight="2" />
+      <edge source="Galdor (elf of the Havens)" target="Oathbreakers" id="371" weight="1" />
+      <edge source="Galdor (elf of the Havens)" target="Saruman" id="372" weight="4" />
+      <edge source="Galdor (elf of the Havens)" target="Sauron" id="373" weight="4" />
+      <edge source="Galdor (elf of the Havens)" target="Thranduil" id="374" weight="1" />
+      <edge source="Galdor (elf of the Havens)" target="Tom Bombadil" id="375" weight="1" />
+      <edge source="Gandalf" target="Barrow-wights" id="376" weight="2" />
+      <edge source="Gandalf" target="Círdan" id="377" weight="1" />
+      <edge source="Gandalf" target="Erestor" id="378" weight="4" />
+      <edge source="Gandalf" target="Farmer Maggot" id="379" weight="1" />
+      <edge source="Gandalf" target="Folco Boffin" id="380" weight="3" />
+      <edge source="Gandalf" target="Gaffer Gamgee" id="381" weight="5" />
+      <edge source="Gandalf" target="Gildor" id="382" weight="7" />
+      <edge source="Gandalf" target="Gimli" id="383" weight="106" />
+      <edge source="Gandalf" target="Glorfindel" id="384" weight="12" />
+      <edge source="Gandalf" target="Gollum" id="385" weight="26" />
+      <edge source="Gandalf" target="Gwaihir" id="386" weight="9" />
+      <edge source="Gandalf" target="Haldir" id="387" weight="2" />
+      <edge source="Gandalf" target="Hirluin" id="388" weight="3" />
+      <edge source="Gandalf" target="Hound of Sauron" id="389" weight="1" />
+      <edge source="Gandalf" target="Imrahil" id="390" weight="24" />
+      <edge source="Gandalf" target="Legolas" id="391" weight="86" />
+      <edge source="Gandalf" target="Lobelia Sackville-Baggins" id="392" weight="4" />
+      <edge source="Gandalf" target="Lotho Sackville-Baggins" id="393" weight="4" />
+      <edge source="Gandalf" target="Mat Heathertoes" id="394" weight="2" />
+      <edge source="Gandalf" target="Meriadoc Brandybuck" id="395" weight="95" />
+      <edge source="Gandalf" target="Mr. Mugwort" id="396" weight="40" />
+      <edge source="Gandalf" target="Nazgûl" id="397" weight="30" />
+      <edge source="Gandalf" target="Nob" id="398" weight="9" />
+      <edge source="Gandalf" target="Oathbreakers" id="399" weight="11" />
+      <edge source="Gandalf" target="Otho Sackville-Baggins" id="400" weight="2" />
+      <edge source="Gandalf" target="Peregrin Took" id="401" weight="146" />
+      <edge source="Gandalf" target="Radagast" id="402" weight="4" />
+      <edge source="Gandalf" target="Samwise Gamgee" id="403" weight="113" />
+      <edge source="Gandalf" target="Saruman" id="404" weight="121" />
+      <edge source="Gandalf" target="Sauron" id="405" weight="53" />
+      <edge source="Gandalf" target="Ted Sandyman" id="406" weight="2" />
+      <edge source="Gandalf" target="Thranduil" id="407" weight="4" />
+      <edge source="Gandalf" target="Tom Bombadil" id="408" weight="7" />
+      <edge source="Gandalf" target="Treebeard" id="409" weight="34" />
+      <edge source="Gandalf" target="Watcher in the Water" id="410" weight="2" />
+      <edge source="Gildor" target="Farmer Maggot" id="411" weight="1" />
+      <edge source="Gildor" target="Gimli" id="412" weight="1" />
+      <edge source="Gildor" target="Meriadoc Brandybuck" id="413" weight="5" />
+      <edge source="Gildor" target="Mr. Mugwort" id="414" weight="1" />
+      <edge source="Gildor" target="Nazgûl" id="415" weight="5" />
+      <edge source="Gildor" target="Nob" id="416" weight="1" />
+      <edge source="Gildor" target="Peregrin Took" id="417" weight="6" />
+      <edge source="Gildor" target="Samwise Gamgee" id="418" weight="6" />
+      <edge source="Gildor" target="Sauron" id="419" weight="1" />
+      <edge source="Gildor" target="Tom Bombadil" id="420" weight="1" />
+      <edge source="Gimli" target="Glorfindel" id="421" weight="1" />
+      <edge source="Gimli" target="Goldberry" id="422" weight="1" />
+      <edge source="Gimli" target="Gollum" id="423" weight="2" />
+      <edge source="Gimli" target="Haldir" id="424" weight="8" />
+      <edge source="Gimli" target="Legolas" id="425" weight="128" />
+      <edge source="Gimli" target="Mat Heathertoes" id="426" weight="1" />
+      <edge source="Gimli" target="Meriadoc Brandybuck" id="427" weight="55" />
+      <edge source="Gimli" target="Mr. Mugwort" id="428" weight="7" />
+      <edge source="Gimli" target="Nazgûl" id="429" weight="7" />
+      <edge source="Gimli" target="Peregrin Took" id="430" weight="55" />
+      <edge source="Gimli" target="Radagast" id="431" weight="1" />
+      <edge source="Gimli" target="Samwise Gamgee" id="432" weight="48" />
+      <edge source="Gimli" target="Saruman" id="433" weight="43" />
+      <edge source="Gimli" target="Sauron" id="434" weight="23" />
+      <edge source="Gimli" target="Ted Sandyman" id="435" weight="1" />
+      <edge source="Gimli" target="Thranduil" id="436" weight="1" />
+      <edge source="Gimli" target="Tom Bombadil" id="437" weight="2" />
+      <edge source="Gimli" target="Treebeard" id="438" weight="32" />
+      <edge source="Gimli" target="Watcher in the Water" id="439" weight="2" />
+      <edge source="Glorfindel" target="Círdan" id="440" weight="1" />
+      <edge source="Glorfindel" target="Erestor" id="441" weight="3" />
+      <edge source="Glorfindel" target="Meriadoc Brandybuck" id="442" weight="1" />
+      <edge source="Glorfindel" target="Mr. Mugwort" id="443" weight="1" />
+      <edge source="Glorfindel" target="Nazgûl" id="444" weight="5" />
+      <edge source="Glorfindel" target="Peregrin Took" id="445" weight="2" />
+      <edge source="Glorfindel" target="Samwise Gamgee" id="446" weight="5" />
+      <edge source="Glorfindel" target="Saruman" id="447" weight="2" />
+      <edge source="Glorfindel" target="Sauron" id="448" weight="4" />
+      <edge source="Glorfindel" target="Tom Bombadil" id="449" weight="1" />
+      <edge source="Gollum" target="Gwaihir" id="450" weight="2" />
+      <edge source="Gollum" target="Haldir" id="451" weight="1" />
+      <edge source="Gollum" target="Legolas" id="452" weight="5" />
+      <edge source="Gollum" target="Meriadoc Brandybuck" id="453" weight="3" />
+      <edge source="Gollum" target="Mr. Mugwort" id="454" weight="23" />
+      <edge source="Gollum" target="Nazgûl" id="455" weight="7" />
+      <edge source="Gollum" target="Oathbreakers" id="456" weight="9" />
+      <edge source="Gollum" target="Peregrin Took" id="457" weight="3" />
+      <edge source="Gollum" target="Radagast" id="458" weight="2" />
+      <edge source="Gollum" target="Samwise Gamgee" id="459" weight="87" />
+      <edge source="Gollum" target="Saruman" id="460" weight="15" />
+      <edge source="Gollum" target="Sauron" id="461" weight="13" />
+      <edge source="Gollum" target="Thranduil" id="462" weight="2" />
+      <edge source="Gwaihir" target="Legolas" id="463" weight="2" />
+      <edge source="Gwaihir" target="Meriadoc Brandybuck" id="464" weight="1" />
+      <edge source="Gwaihir" target="Nazgûl" id="465" weight="2" />
+      <edge source="Gwaihir" target="Peregrin Took" id="466" weight="1" />
+      <edge source="Gwaihir" target="Radagast" id="467" weight="1" />
+      <edge source="Gwaihir" target="Samwise Gamgee" id="468" weight="4" />
+      <edge source="Gwaihir" target="Saruman" id="469" weight="3" />
+      <edge source="Gwaihir" target="Sauron" id="470" weight="2" />
+      <edge source="Gwaihir" target="Thranduil" id="471" weight="1" />
+      <edge source="Haldir" target="Legolas" id="472" weight="10" />
+      <edge source="Haldir" target="Meriadoc Brandybuck" id="473" weight="3" />
+      <edge source="Haldir" target="Mr. Mugwort" id="474" weight="2" />
+      <edge source="Haldir" target="Orophin" id="475" weight="2" />
+      <edge source="Haldir" target="Peregrin Took" id="476" weight="4" />
+      <edge source="Haldir" target="Samwise Gamgee" id="477" weight="8" />
+      <edge source="Haldir" target="Sauron" id="478" weight="1" />
+      <edge source="Haldir" target="Thranduil" id="479" weight="1" />
+      <edge source="Hound of Sauron" target="Legolas" id="480" weight="1" />
+      <edge source="Hound of Sauron" target="Mr. Mugwort" id="481" weight="1" />
+      <edge source="Hound of Sauron" target="Peregrin Took" id="482" weight="1" />
+      <edge source="Hound of Sauron" target="Samwise Gamgee" id="483" weight="1" />
+      <edge source="Hound of Sauron" target="Sauron" id="484" weight="1" />
+      <edge source="Legolas" target="Erestor" id="485" weight="1" />
+      <edge source="Legolas" target="Meriadoc Brandybuck" id="486" weight="46" />
+      <edge source="Legolas" target="Mr. Mugwort" id="487" weight="7" />
+      <edge source="Legolas" target="Nazgûl" id="488" weight="5" />
+      <edge source="Legolas" target="Orophin" id="489" weight="2" />
+      <edge source="Legolas" target="Peregrin Took" id="490" weight="42" />
+      <edge source="Legolas" target="Samwise Gamgee" id="491" weight="36" />
+      <edge source="Legolas" target="Saruman" id="492" weight="45" />
+      <edge source="Legolas" target="Sauron" id="493" weight="21" />
+      <edge source="Legolas" target="Ted Sandyman" id="494" weight="1" />
+      <edge source="Legolas" target="Thranduil" id="495" weight="4" />
+      <edge source="Legolas" target="Watcher in the Water" id="496" weight="1" />
+      <edge source="Lotho Sackville-Baggins" target="Folco Boffin" id="497" weight="1" />
+      <edge source="Lotho Sackville-Baggins" target="Gaffer Gamgee" id="498" weight="2" />
+      <edge source="Lotho Sackville-Baggins" target="Lobelia Sackville-Baggins" id="499" weight="3" />
+      <edge source="Lotho Sackville-Baggins" target="Meriadoc Brandybuck" id="500" weight="16" />
+      <edge source="Lotho Sackville-Baggins" target="Mr. Mugwort" id="501" weight="12" />
+      <edge source="Lotho Sackville-Baggins" target="Peregrin Took" id="502" weight="13" />
+      <edge source="Lotho Sackville-Baggins" target="Samwise Gamgee" id="503" weight="18" />
+      <edge source="Meriadoc Brandybuck" target="Barrow-wights" id="504" weight="1" />
+      <edge source="Meriadoc Brandybuck" target="Farmer Maggot" id="505" weight="11" />
+      <edge source="Meriadoc Brandybuck" target="Folco Boffin" id="506" weight="3" />
+      <edge source="Meriadoc Brandybuck" target="Gaffer Gamgee" id="507" weight="1" />
+      <edge source="Meriadoc Brandybuck" target="Goldberry" id="508" weight="4" />
+      <edge source="Meriadoc Brandybuck" target="Hirluin" id="509" weight="1" />
+      <edge source="Meriadoc Brandybuck" target="Imrahil" id="510" weight="9" />
+      <edge source="Meriadoc Brandybuck" target="Lobelia Sackville-Baggins" id="511" weight="4" />
+      <edge source="Meriadoc Brandybuck" target="Mr. Mugwort" id="512" weight="35" />
+      <edge source="Meriadoc Brandybuck" target="Mrs Maggot" id="513" weight="2" />
+      <edge source="Meriadoc Brandybuck" target="Nazgûl" id="514" weight="8" />
+      <edge source="Meriadoc Brandybuck" target="Nob" id="515" weight="9" />
+      <edge source="Meriadoc Brandybuck" target="Oathbreakers" id="516" weight="9" />
+      <edge source="Meriadoc Brandybuck" target="Odo Proudfoot" id="517" weight="1" />
+      <edge source="Meriadoc Brandybuck" target="Old Man Willow" id="518" weight="2" />
+      <edge source="Meriadoc Brandybuck" target="Otho Sackville-Baggins" id="519" weight="3" />
+      <edge source="Meriadoc Brandybuck" target="Peregrin Took" id="520" weight="155" />
+      <edge source="Meriadoc Brandybuck" target="Samwise Gamgee" id="521" weight="86" />
+      <edge source="Meriadoc Brandybuck" target="Sancho Proudfoot" id="522" weight="1" />
+      <edge source="Meriadoc Brandybuck" target="Saruman" id="523" weight="41" />
+      <edge source="Meriadoc Brandybuck" target="Sauron" id="524" weight="10" />
+      <edge source="Meriadoc Brandybuck" target="Ted Sandyman" id="525" weight="3" />
+      <edge source="Meriadoc Brandybuck" target="Thranduil" id="526" weight="1" />
+      <edge source="Meriadoc Brandybuck" target="Tom Bombadil" id="527" weight="9" />
+      <edge source="Mr. Mugwort" target="Daddy Twofoot" id="528" weight="1" />
+      <edge source="Mr. Mugwort" target="Farmer Maggot" id="529" weight="9" />
+      <edge source="Mr. Mugwort" target="Folco Boffin" id="530" weight="1" />
+      <edge source="Mr. Mugwort" target="Gaffer Gamgee" id="531" weight="11" />
+      <edge source="Mr. Mugwort" target="Goldberry" id="532" weight="1" />
+      <edge source="Mr. Mugwort" target="Hirluin" id="533" weight="3" />
+      <edge source="Mr. Mugwort" target="Imrahil" id="534" weight="4" />
+      <edge source="Mr. Mugwort" target="Lobelia Sackville-Baggins" id="535" weight="4" />
+      <edge source="Mr. Mugwort" target="Mat Heathertoes" id="536" weight="2" />
+      <edge source="Mr. Mugwort" target="Mrs Maggot" id="537" weight="3" />
+      <edge source="Mr. Mugwort" target="Nazgûl" id="538" weight="1" />
+      <edge source="Mr. Mugwort" target="Nob" id="539" weight="13" />
+      <edge source="Mr. Mugwort" target="Old Noakes" id="540" weight="2" />
+      <edge source="Mr. Mugwort" target="Otho Sackville-Baggins" id="541" weight="1" />
+      <edge source="Mr. Mugwort" target="Peregrin Took" id="542" weight="38" />
+      <edge source="Mr. Mugwort" target="Samwise Gamgee" id="543" weight="112" />
+      <edge source="Mr. Mugwort" target="Saruman" id="544" weight="10" />
+      <edge source="Mr. Mugwort" target="Sauron" id="545" weight="9" />
+      <edge source="Mr. Mugwort" target="Ted Sandyman" id="546" weight="3" />
+      <edge source="Mr. Mugwort" target="Tom Bombadil" id="547" weight="3" />
+      <edge source="Nazgûl" target="Erestor" id="548" weight="1" />
+      <edge source="Nazgûl" target="Farmer Maggot" id="549" weight="1" />
+      <edge source="Nazgûl" target="Nob" id="550" weight="1" />
+      <edge source="Nazgûl" target="Peregrin Took" id="551" weight="12" />
+      <edge source="Nazgûl" target="Radagast" id="552" weight="4" />
+      <edge source="Nazgûl" target="Samwise Gamgee" id="553" weight="16" />
+      <edge source="Nazgûl" target="Saruman" id="554" weight="13" />
+      <edge source="Nazgûl" target="Sauron" id="555" weight="13" />
+      <edge source="Nazgûl" target="Tom Bombadil" id="556" weight="2" />
+      <edge source="Nob" target="Peregrin Took" id="557" weight="8" />
+      <edge source="Nob" target="Samwise Gamgee" id="558" weight="10" />
+      <edge source="Oathbreakers" target="Peregrin Took" id="559" weight="5" />
+      <edge source="Oathbreakers" target="Samwise Gamgee" id="560" weight="8" />
+      <edge source="Oathbreakers" target="Saruman" id="561" weight="8" />
+      <edge source="Oathbreakers" target="Treebeard" id="562" weight="2" />
+      <edge source="Peregrin Took" target="Barrow-wights" id="563" weight="1" />
+      <edge source="Peregrin Took" target="Farmer Maggot" id="564" weight="9" />
+      <edge source="Peregrin Took" target="Folco Boffin" id="565" weight="3" />
+      <edge source="Peregrin Took" target="Gaffer Gamgee" id="566" weight="3" />
+      <edge source="Peregrin Took" target="Goldberry" id="567" weight="6" />
+      <edge source="Peregrin Took" target="Lobelia Sackville-Baggins" id="568" weight="2" />
+      <edge source="Peregrin Took" target="Mrs Maggot" id="569" weight="3" />
+      <edge source="Peregrin Took" target="Old Man Willow" id="570" weight="1" />
+      <edge source="Peregrin Took" target="Samwise Gamgee" id="571" weight="105" />
+      <edge source="Peregrin Took" target="Sauron" id="572" weight="15" />
+      <edge source="Peregrin Took" target="Ted Sandyman" id="573" weight="1" />
+      <edge source="Peregrin Took" target="Thranduil" id="574" weight="1" />
+      <edge source="Peregrin Took" target="Tom Bombadil" id="575" weight="7" />
+      <edge source="Peregrin Took" target="Treebeard" id="576" weight="43" />
+      <edge source="Radagast" target="Samwise Gamgee" id="577" weight="1" />
+      <edge source="Radagast" target="Saruman" id="578" weight="4" />
+      <edge source="Samwise Gamgee" target="Barrow-wights" id="579" weight="1" />
+      <edge source="Samwise Gamgee" target="Daddy Twofoot" id="580" weight="1" />
+      <edge source="Samwise Gamgee" target="Farmer Maggot" id="581" weight="10" />
+      <edge source="Samwise Gamgee" target="Folco Boffin" id="582" weight="1" />
+      <edge source="Samwise Gamgee" target="Gaffer Gamgee" id="583" weight="16" />
+      <edge source="Samwise Gamgee" target="Goldberry" id="584" weight="4" />
+      <edge source="Samwise Gamgee" target="Hirluin" id="585" weight="4" />
+      <edge source="Samwise Gamgee" target="Imrahil" id="586" weight="4" />
+      <edge source="Samwise Gamgee" target="Lobelia Sackville-Baggins" id="587" weight="4" />
+      <edge source="Samwise Gamgee" target="Mat Heathertoes" id="588" weight="1" />
+      <edge source="Samwise Gamgee" target="Mrs Maggot" id="589" weight="4" />
+      <edge source="Samwise Gamgee" target="Old Man Willow" id="590" weight="1" />
+      <edge source="Samwise Gamgee" target="Old Noakes" id="591" weight="1" />
+      <edge source="Samwise Gamgee" target="Orophin" id="592" weight="1" />
+      <edge source="Samwise Gamgee" target="Otho Sackville-Baggins" id="593" weight="2" />
+      <edge source="Samwise Gamgee" target="Saruman" id="594" weight="24" />
+      <edge source="Samwise Gamgee" target="Sauron" id="595" weight="27" />
+      <edge source="Samwise Gamgee" target="Ted Sandyman" id="596" weight="6" />
+      <edge source="Samwise Gamgee" target="Thranduil" id="597" weight="1" />
+      <edge source="Samwise Gamgee" target="Tom Bombadil" id="598" weight="9" />
+      <edge source="Samwise Gamgee" target="Treebeard" id="599" weight="7" />
+      <edge source="Saruman" target="Barrow-wights" id="600" weight="1" />
+      <edge source="Saruman" target="Círdan" id="601" weight="1" />
+      <edge source="Saruman" target="Erestor" id="602" weight="2" />
+      <edge source="Saruman" target="Hirluin" id="603" weight="2" />
+      <edge source="Saruman" target="Imrahil" id="604" weight="5" />
+      <edge source="Saruman" target="Nameless things" id="605" weight="2" />
+      <edge source="Saruman" target="Sauron" id="606" weight="31" />
+      <edge source="Saruman" target="Ted Sandyman" id="607" weight="4" />
+      <edge source="Saruman" target="Thranduil" id="608" weight="1" />
+      <edge source="Saruman" target="Tom Bombadil" id="609" weight="4" />
+      <edge source="Saruman" target="Treebeard" id="610" weight="41" />
+      <edge source="Sauron" target="Círdan" id="611" weight="1" />
+      <edge source="Sauron" target="Erestor" id="612" weight="2" />
+      <edge source="Sauron" target="Folco Boffin" id="613" weight="1" />
+      <edge source="Sauron" target="Húrin (Warden of the Keys)" id="614" weight="1" />
+      <edge source="Sauron" target="Mat Heathertoes" id="615" weight="1" />
+      <edge source="Sauron" target="Thranduil" id="616" weight="1" />
+      <edge source="Sauron" target="Tom Bombadil" id="617" weight="3" />
+      <edge source="Ted Sandyman" target="Hirluin" id="618" weight="1" />
+      <edge source="Ted Sandyman" target="Imrahil" id="619" weight="1" />
+      <edge source="Thranduil" target="Erestor" id="620" weight="1" />
+      <edge source="Tom Bombadil" target="Barrow-wights" id="621" weight="2" />
+      <edge source="Tom Bombadil" target="Círdan" id="622" weight="1" />
+      <edge source="Tom Bombadil" target="Erestor" id="623" weight="1" />
+      <edge source="Tom Bombadil" target="Farmer Maggot" id="624" weight="1" />
+      <edge source="Tom Bombadil" target="Goldberry" id="625" weight="7" />
+      <edge source="Tom Bombadil" target="Hirluin" id="626" weight="1" />
+      <edge source="Tom Bombadil" target="Imrahil" id="627" weight="1" />
+      <edge source="Tom Bombadil" target="Old Man Willow" id="628" weight="1" />
+      <edge source="Goldberry" target="Barrow-wights" id="629" weight="1" />
+      <edge source="Goldberry" target="Old Man Willow" id="630" weight="1" />
+      <edge source="Barrow-wights" target="Erestor" id="631" weight="1" />
+      <edge source="Daddy Twofoot" target="Gaffer Gamgee" id="632" weight="1" />
+      <edge source="Daddy Twofoot" target="Old Noakes" id="633" weight="1" />
+      <edge source="Farmer Maggot" target="Mrs Maggot" id="634" weight="3" />
+      <edge source="Folco Boffin" target="Lobelia Sackville-Baggins" id="635" weight="1" />
+      <edge source="Gaffer Gamgee" target="Lobelia Sackville-Baggins" id="636" weight="3" />
+      <edge source="Gaffer Gamgee" target="Old Noakes" id="637" weight="2" />
+      <edge source="Gaffer Gamgee" target="Otho Sackville-Baggins" id="638" weight="1" />
+      <edge source="Hirluin" target="Imrahil" id="639" weight="10" />
+      <edge source="Hirluin" target="Lobelia Sackville-Baggins" id="640" weight="1" />
+      <edge source="Hirluin" target="Mat Heathertoes" id="641" weight="1" />
+      <edge source="Hirluin" target="Otho Sackville-Baggins" id="642" weight="1" />
+      <edge source="Imrahil" target="Lobelia Sackville-Baggins" id="643" weight="1" />
+      <edge source="Imrahil" target="Mat Heathertoes" id="644" weight="1" />
+      <edge source="Imrahil" target="Otho Sackville-Baggins" id="645" weight="1" />
+      <edge source="Lobelia Sackville-Baggins" target="Odo Proudfoot" id="646" weight="1" />
+      <edge source="Lobelia Sackville-Baggins" target="Otho Sackville-Baggins" id="647" weight="5" />
+      <edge source="Lobelia Sackville-Baggins" target="Sancho Proudfoot" id="648" weight="1" />
+      <edge source="Odo Proudfoot" target="Otho Sackville-Baggins" id="649" weight="1" />
+      <edge source="Odo Proudfoot" target="Sancho Proudfoot" id="650" weight="1" />
+      <edge source="Otho Sackville-Baggins" target="Sancho Proudfoot" id="651" weight="1" />
+    </edges>
+  </graph>
+</gexf>

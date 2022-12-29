@@ -1,0 +1,552 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gexf xmlns="http://www.gexf.net/1.2draft" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.gexf.net/1.2draft http://www.gexf.net/1.2draft/gexf.xsd" version="1.2">
+  <meta lastmodifieddate="2022-12-29">
+    <creator>NetworkX 2.8.4</creator>
+  </meta>
+  <graph defaultedgetype="undirected" mode="static" name="">
+    <attributes mode="static" class="node">
+      <attribute id="0" title="community" type="long" />
+    </attributes>
+    <nodes>
+      <node id="Azog" label="Azog">
+        <attvalues>
+          <attvalue for="0" value="0" />
+        </attvalues>
+      </node>
+      <node id="Gandalf" label="Gandalf">
+        <attvalues>
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </node>
+      <node id="Smaug" label="Smaug">
+        <attvalues>
+          <attvalue for="0" value="0" />
+        </attvalues>
+      </node>
+      <node id="Thorin" label="Thorin">
+        <attvalues>
+          <attvalue for="0" value="0" />
+        </attvalues>
+      </node>
+      <node id="Thráin" label="Thráin">
+        <attvalues>
+          <attvalue for="0" value="0" />
+        </attvalues>
+      </node>
+      <node id="Thrór" label="Thrór">
+        <attvalues>
+          <attvalue for="0" value="0" />
+        </attvalues>
+      </node>
+      <node id="Balin" label="Balin">
+        <attvalues>
+          <attvalue for="0" value="2" />
+        </attvalues>
+      </node>
+      <node id="Bard" label="Bard">
+        <attvalues>
+          <attvalue for="0" value="0" />
+        </attvalues>
+      </node>
+      <node id="Beorn" label="Beorn">
+        <attvalues>
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </node>
+      <node id="Bert" label="Bert">
+        <attvalues>
+          <attvalue for="0" value="3" />
+        </attvalues>
+      </node>
+      <node id="Bifur" label="Bifur">
+        <attvalues>
+          <attvalue for="0" value="2" />
+        </attvalues>
+      </node>
+      <node id="Bilbo Baggins" label="Bilbo Baggins">
+        <attvalues>
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </node>
+      <node id="Bofur" label="Bofur">
+        <attvalues>
+          <attvalue for="0" value="2" />
+        </attvalues>
+      </node>
+      <node id="Bolg" label="Bolg">
+        <attvalues>
+          <attvalue for="0" value="0" />
+        </attvalues>
+      </node>
+      <node id="Bombur" label="Bombur">
+        <attvalues>
+          <attvalue for="0" value="2" />
+        </attvalues>
+      </node>
+      <node id="Bungo Baggins" label="Bungo Baggins">
+        <attvalues>
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </node>
+      <node id="Carc" label="Carc">
+        <attvalues>
+          <attvalue for="0" value="0" />
+        </attvalues>
+      </node>
+      <node id="Dáin Ironfoot" label="Dáin Ironfoot">
+        <attvalues>
+          <attvalue for="0" value="0" />
+        </attvalues>
+      </node>
+      <node id="Dori" label="Dori">
+        <attvalues>
+          <attvalue for="0" value="2" />
+        </attvalues>
+      </node>
+      <node id="Dwalin" label="Dwalin">
+        <attvalues>
+          <attvalue for="0" value="2" />
+        </attvalues>
+      </node>
+      <node id="Elrond" label="Elrond">
+        <attvalues>
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </node>
+      <node id="Fíli" label="Fíli">
+        <attvalues>
+          <attvalue for="0" value="2" />
+        </attvalues>
+      </node>
+      <node id="Galion" label="Galion">
+        <attvalues>
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </node>
+      <node id="Glóin" label="Glóin">
+        <attvalues>
+          <attvalue for="0" value="2" />
+        </attvalues>
+      </node>
+      <node id="Gollum" label="Gollum">
+        <attvalues>
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </node>
+      <node id="Great Eagle" label="Great Eagle">
+        <attvalues>
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </node>
+      <node id="Kíli" label="Kíli">
+        <attvalues>
+          <attvalue for="0" value="2" />
+        </attvalues>
+      </node>
+      <node id="Master of Lake-town" label="Master of Lake-town">
+        <attvalues>
+          <attvalue for="0" value="0" />
+        </attvalues>
+      </node>
+      <node id="Nori" label="Nori">
+        <attvalues>
+          <attvalue for="0" value="2" />
+        </attvalues>
+      </node>
+      <node id="Óin" label="Óin">
+        <attvalues>
+          <attvalue for="0" value="2" />
+        </attvalues>
+      </node>
+      <node id="Ori" label="Ori">
+        <attvalues>
+          <attvalue for="0" value="2" />
+        </attvalues>
+      </node>
+      <node id="Tom" label="Tom">
+        <attvalues>
+          <attvalue for="0" value="3" />
+        </attvalues>
+      </node>
+      <node id="William" label="William">
+        <attvalues>
+          <attvalue for="0" value="3" />
+        </attvalues>
+      </node>
+      <node id="Bandobras Took" label="Bandobras Took">
+        <attvalues>
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </node>
+      <node id="Thranduil" label="Thranduil">
+        <attvalues>
+          <attvalue for="0" value="0" />
+        </attvalues>
+      </node>
+      <node id="Belladonna Took" label="Belladonna Took">
+        <attvalues>
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </node>
+      <node id="Great Goblin" label="Great Goblin">
+        <attvalues>
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </node>
+    </nodes>
+    <edges>
+      <edge source="Azog" target="Gandalf" id="0" weight="1" />
+      <edge source="Azog" target="Smaug" id="1" weight="1" />
+      <edge source="Azog" target="Thorin" id="2" weight="1" />
+      <edge source="Azog" target="Thráin" id="3" weight="1" />
+      <edge source="Azog" target="Thrór" id="4" weight="1" />
+      <edge source="Gandalf" target="Balin" id="5" weight="17" />
+      <edge source="Gandalf" target="Bandobras Took" id="6" weight="2" />
+      <edge source="Gandalf" target="Bard" id="7" weight="5" />
+      <edge source="Gandalf" target="Belladonna Took" id="8" weight="2" />
+      <edge source="Gandalf" target="Beorn" id="9" weight="16" />
+      <edge source="Gandalf" target="Bert" id="10" weight="2" />
+      <edge source="Gandalf" target="Bifur" id="11" weight="6" />
+      <edge source="Gandalf" target="Bilbo Baggins" id="12" weight="69" />
+      <edge source="Gandalf" target="Bofur" id="13" weight="7" />
+      <edge source="Gandalf" target="Bolg" id="14" weight="3" />
+      <edge source="Gandalf" target="Bombur" id="15" weight="12" />
+      <edge source="Gandalf" target="Bungo Baggins" id="16" weight="2" />
+      <edge source="Gandalf" target="Dáin Ironfoot" id="17" weight="7" />
+      <edge source="Gandalf" target="Dori" id="18" weight="10" />
+      <edge source="Gandalf" target="Dwalin" id="19" weight="9" />
+      <edge source="Gandalf" target="Elrond" id="20" weight="8" />
+      <edge source="Gandalf" target="Fíli" id="21" weight="12" />
+      <edge source="Gandalf" target="Glóin" id="22" weight="9" />
+      <edge source="Gandalf" target="Gollum" id="23" weight="2" />
+      <edge source="Gandalf" target="Great Eagle" id="24" weight="4" />
+      <edge source="Gandalf" target="Great Goblin" id="25" weight="5" />
+      <edge source="Gandalf" target="Kíli" id="26" weight="12" />
+      <edge source="Gandalf" target="Nori" id="27" weight="6" />
+      <edge source="Gandalf" target="Óin" id="28" weight="7" />
+      <edge source="Gandalf" target="Ori" id="29" weight="4" />
+      <edge source="Gandalf" target="Smaug" id="30" weight="7" />
+      <edge source="Gandalf" target="Thorin" id="31" weight="36" />
+      <edge source="Gandalf" target="Thráin" id="32" weight="4" />
+      <edge source="Gandalf" target="Thranduil" id="33" weight="1" />
+      <edge source="Gandalf" target="Thrór" id="34" weight="4" />
+      <edge source="Gandalf" target="Tom" id="35" weight="2" />
+      <edge source="Gandalf" target="William" id="36" weight="2" />
+      <edge source="Smaug" target="Balin" id="37" weight="11" />
+      <edge source="Smaug" target="Bard" id="38" weight="7" />
+      <edge source="Smaug" target="Beorn" id="39" weight="3" />
+      <edge source="Smaug" target="Bifur" id="40" weight="1" />
+      <edge source="Smaug" target="Bilbo Baggins" id="41" weight="30" />
+      <edge source="Smaug" target="Bofur" id="42" weight="1" />
+      <edge source="Smaug" target="Bolg" id="43" weight="2" />
+      <edge source="Smaug" target="Bombur" id="44" weight="3" />
+      <edge source="Smaug" target="Carc" id="45" weight="2" />
+      <edge source="Smaug" target="Dáin Ironfoot" id="46" weight="3" />
+      <edge source="Smaug" target="Dori" id="47" weight="1" />
+      <edge source="Smaug" target="Elrond" id="48" weight="1" />
+      <edge source="Smaug" target="Fíli" id="49" weight="4" />
+      <edge source="Smaug" target="Glóin" id="50" weight="2" />
+      <edge source="Smaug" target="Great Eagle" id="51" weight="1" />
+      <edge source="Smaug" target="Great Goblin" id="52" weight="1" />
+      <edge source="Smaug" target="Kíli" id="53" weight="4" />
+      <edge source="Smaug" target="Master of Lake-town" id="54" weight="8" />
+      <edge source="Smaug" target="Óin" id="55" weight="2" />
+      <edge source="Smaug" target="Thorin" id="56" weight="25" />
+      <edge source="Smaug" target="Thráin" id="57" weight="5" />
+      <edge source="Smaug" target="Thranduil" id="58" weight="1" />
+      <edge source="Smaug" target="Thrór" id="59" weight="7" />
+      <edge source="Thorin" target="Balin" id="60" weight="33" />
+      <edge source="Thorin" target="Bard" id="61" weight="14" />
+      <edge source="Thorin" target="Beorn" id="62" weight="9" />
+      <edge source="Thorin" target="Bert" id="63" weight="3" />
+      <edge source="Thorin" target="Bifur" id="64" weight="12" />
+      <edge source="Thorin" target="Bilbo Baggins" id="65" weight="88" />
+      <edge source="Thorin" target="Bofur" id="66" weight="11" />
+      <edge source="Thorin" target="Bolg" id="67" weight="3" />
+      <edge source="Thorin" target="Bombur" id="68" weight="24" />
+      <edge source="Thorin" target="Bungo Baggins" id="69" weight="1" />
+      <edge source="Thorin" target="Carc" id="70" weight="2" />
+      <edge source="Thorin" target="Dáin Ironfoot" id="71" weight="13" />
+      <edge source="Thorin" target="Dori" id="72" weight="14" />
+      <edge source="Thorin" target="Dwalin" id="73" weight="13" />
+      <edge source="Thorin" target="Elrond" id="74" weight="5" />
+      <edge source="Thorin" target="Fíli" id="75" weight="24" />
+      <edge source="Thorin" target="Galion" id="76" weight="1" />
+      <edge source="Thorin" target="Glóin" id="77" weight="12" />
+      <edge source="Thorin" target="Gollum" id="78" weight="1" />
+      <edge source="Thorin" target="Great Eagle" id="79" weight="3" />
+      <edge source="Thorin" target="Great Goblin" id="80" weight="2" />
+      <edge source="Thorin" target="Kíli" id="81" weight="24" />
+      <edge source="Thorin" target="Master of Lake-town" id="82" weight="8" />
+      <edge source="Thorin" target="Nori" id="83" weight="9" />
+      <edge source="Thorin" target="Óin" id="84" weight="12" />
+      <edge source="Thorin" target="Ori" id="85" weight="7" />
+      <edge source="Thorin" target="Thráin" id="86" weight="15" />
+      <edge source="Thorin" target="Thranduil" id="87" weight="4" />
+      <edge source="Thorin" target="Thrór" id="88" weight="14" />
+      <edge source="Thorin" target="Tom" id="89" weight="4" />
+      <edge source="Thorin" target="William" id="90" weight="4" />
+      <edge source="Thráin" target="Balin" id="91" weight="4" />
+      <edge source="Thráin" target="Bard" id="92" weight="4" />
+      <edge source="Thráin" target="Beorn" id="93" weight="1" />
+      <edge source="Thráin" target="Bilbo Baggins" id="94" weight="12" />
+      <edge source="Thráin" target="Bombur" id="95" weight="3" />
+      <edge source="Thráin" target="Carc" id="96" weight="1" />
+      <edge source="Thráin" target="Dáin Ironfoot" id="97" weight="2" />
+      <edge source="Thráin" target="Dori" id="98" weight="1" />
+      <edge source="Thráin" target="Fíli" id="99" weight="4" />
+      <edge source="Thráin" target="Kíli" id="100" weight="4" />
+      <edge source="Thráin" target="Master of Lake-town" id="101" weight="4" />
+      <edge source="Thráin" target="Thranduil" id="102" weight="3" />
+      <edge source="Thráin" target="Thrór" id="103" weight="8" />
+      <edge source="Thrór" target="Balin" id="104" weight="4" />
+      <edge source="Thrór" target="Bard" id="105" weight="1" />
+      <edge source="Thrór" target="Beorn" id="106" weight="2" />
+      <edge source="Thrór" target="Bilbo Baggins" id="107" weight="11" />
+      <edge source="Thrór" target="Carc" id="108" weight="1" />
+      <edge source="Thrór" target="Dori" id="109" weight="1" />
+      <edge source="Thrór" target="Fíli" id="110" weight="1" />
+      <edge source="Thrór" target="Kíli" id="111" weight="1" />
+      <edge source="Thrór" target="Master of Lake-town" id="112" weight="4" />
+      <edge source="Thrór" target="Thranduil" id="113" weight="2" />
+      <edge source="Balin" target="Bard" id="114" weight="2" />
+      <edge source="Balin" target="Beorn" id="115" weight="3" />
+      <edge source="Balin" target="Bert" id="116" weight="1" />
+      <edge source="Balin" target="Bifur" id="117" weight="10" />
+      <edge source="Balin" target="Bilbo Baggins" id="118" weight="41" />
+      <edge source="Balin" target="Bofur" id="119" weight="10" />
+      <edge source="Balin" target="Bolg" id="120" weight="1" />
+      <edge source="Balin" target="Bombur" id="121" weight="13" />
+      <edge source="Balin" target="Bungo Baggins" id="122" weight="1" />
+      <edge source="Balin" target="Carc" id="123" weight="1" />
+      <edge source="Balin" target="Dáin Ironfoot" id="124" weight="3" />
+      <edge source="Balin" target="Dori" id="125" weight="11" />
+      <edge source="Balin" target="Dwalin" id="126" weight="14" />
+      <edge source="Balin" target="Elrond" id="127" weight="2" />
+      <edge source="Balin" target="Fíli" id="128" weight="18" />
+      <edge source="Balin" target="Galion" id="129" weight="1" />
+      <edge source="Balin" target="Glóin" id="130" weight="10" />
+      <edge source="Balin" target="Gollum" id="131" weight="3" />
+      <edge source="Balin" target="Great Eagle" id="132" weight="1" />
+      <edge source="Balin" target="Kíli" id="133" weight="18" />
+      <edge source="Balin" target="Master of Lake-town" id="134" weight="1" />
+      <edge source="Balin" target="Nori" id="135" weight="10" />
+      <edge source="Balin" target="Óin" id="136" weight="10" />
+      <edge source="Balin" target="Ori" id="137" weight="7" />
+      <edge source="Balin" target="Tom" id="138" weight="1" />
+      <edge source="Balin" target="William" id="139" weight="1" />
+      <edge source="Bard" target="Beorn" id="140" weight="1" />
+      <edge source="Bard" target="Bifur" id="141" weight="1" />
+      <edge source="Bard" target="Bilbo Baggins" id="142" weight="11" />
+      <edge source="Bard" target="Bofur" id="143" weight="1" />
+      <edge source="Bard" target="Bolg" id="144" weight="2" />
+      <edge source="Bard" target="Bombur" id="145" weight="4" />
+      <edge source="Bard" target="Carc" id="146" weight="1" />
+      <edge source="Bard" target="Dáin Ironfoot" id="147" weight="10" />
+      <edge source="Bard" target="Dori" id="148" weight="1" />
+      <edge source="Bard" target="Dwalin" id="149" weight="1" />
+      <edge source="Bard" target="Fíli" id="150" weight="3" />
+      <edge source="Bard" target="Glóin" id="151" weight="1" />
+      <edge source="Bard" target="Great Eagle" id="152" weight="1" />
+      <edge source="Bard" target="Kíli" id="153" weight="3" />
+      <edge source="Bard" target="Master of Lake-town" id="154" weight="7" />
+      <edge source="Bard" target="Nori" id="155" weight="1" />
+      <edge source="Bard" target="Óin" id="156" weight="1" />
+      <edge source="Bard" target="Ori" id="157" weight="1" />
+      <edge source="Bard" target="Thranduil" id="158" weight="3" />
+      <edge source="Beorn" target="Bifur" id="159" weight="2" />
+      <edge source="Beorn" target="Bilbo Baggins" id="160" weight="16" />
+      <edge source="Beorn" target="Bofur" id="161" weight="3" />
+      <edge source="Beorn" target="Bolg" id="162" weight="1" />
+      <edge source="Beorn" target="Bombur" id="163" weight="4" />
+      <edge source="Beorn" target="Dáin Ironfoot" id="164" weight="2" />
+      <edge source="Beorn" target="Dori" id="165" weight="2" />
+      <edge source="Beorn" target="Dwalin" id="166" weight="2" />
+      <edge source="Beorn" target="Elrond" id="167" weight="1" />
+      <edge source="Beorn" target="Fíli" id="168" weight="2" />
+      <edge source="Beorn" target="Glóin" id="169" weight="2" />
+      <edge source="Beorn" target="Great Eagle" id="170" weight="1" />
+      <edge source="Beorn" target="Great Goblin" id="171" weight="2" />
+      <edge source="Beorn" target="Kíli" id="172" weight="2" />
+      <edge source="Beorn" target="Master of Lake-town" id="173" weight="1" />
+      <edge source="Beorn" target="Nori" id="174" weight="2" />
+      <edge source="Beorn" target="Óin" id="175" weight="2" />
+      <edge source="Beorn" target="Ori" id="176" weight="2" />
+      <edge source="Beorn" target="Thranduil" id="177" weight="1" />
+      <edge source="Bert" target="Bifur" id="178" weight="1" />
+      <edge source="Bert" target="Bilbo Baggins" id="179" weight="5" />
+      <edge source="Bert" target="Bofur" id="180" weight="1" />
+      <edge source="Bert" target="Bombur" id="181" weight="2" />
+      <edge source="Bert" target="Dori" id="182" weight="1" />
+      <edge source="Bert" target="Dwalin" id="183" weight="1" />
+      <edge source="Bert" target="Fíli" id="184" weight="1" />
+      <edge source="Bert" target="Glóin" id="185" weight="1" />
+      <edge source="Bert" target="Kíli" id="186" weight="1" />
+      <edge source="Bert" target="Nori" id="187" weight="1" />
+      <edge source="Bert" target="Óin" id="188" weight="1" />
+      <edge source="Bert" target="Ori" id="189" weight="1" />
+      <edge source="Bert" target="Tom" id="190" weight="5" />
+      <edge source="Bert" target="William" id="191" weight="5" />
+      <edge source="Bifur" target="Bilbo Baggins" id="192" weight="14" />
+      <edge source="Bifur" target="Bofur" id="193" weight="14" />
+      <edge source="Bifur" target="Bombur" id="194" weight="14" />
+      <edge source="Bifur" target="Dáin Ironfoot" id="195" weight="2" />
+      <edge source="Bifur" target="Dori" id="196" weight="8" />
+      <edge source="Bifur" target="Dwalin" id="197" weight="10" />
+      <edge source="Bifur" target="Fíli" id="198" weight="12" />
+      <edge source="Bifur" target="Glóin" id="199" weight="8" />
+      <edge source="Bifur" target="Kíli" id="200" weight="11" />
+      <edge source="Bifur" target="Master of Lake-town" id="201" weight="1" />
+      <edge source="Bifur" target="Nori" id="202" weight="10" />
+      <edge source="Bifur" target="Óin" id="203" weight="8" />
+      <edge source="Bifur" target="Ori" id="204" weight="7" />
+      <edge source="Bifur" target="Tom" id="205" weight="2" />
+      <edge source="Bifur" target="William" id="206" weight="1" />
+      <edge source="Bilbo Baggins" target="Bandobras Took" id="207" weight="2" />
+      <edge source="Bilbo Baggins" target="Belladonna Took" id="208" weight="2" />
+      <edge source="Bilbo Baggins" target="Bofur" id="209" weight="14" />
+      <edge source="Bilbo Baggins" target="Bolg" id="210" weight="2" />
+      <edge source="Bilbo Baggins" target="Bombur" id="211" weight="27" />
+      <edge source="Bilbo Baggins" target="Bungo Baggins" id="212" weight="2" />
+      <edge source="Bilbo Baggins" target="Carc" id="213" weight="2" />
+      <edge source="Bilbo Baggins" target="Dáin Ironfoot" id="214" weight="12" />
+      <edge source="Bilbo Baggins" target="Dori" id="215" weight="18" />
+      <edge source="Bilbo Baggins" target="Dwalin" id="216" weight="15" />
+      <edge source="Bilbo Baggins" target="Elrond" id="217" weight="8" />
+      <edge source="Bilbo Baggins" target="Fíli" id="218" weight="28" />
+      <edge source="Bilbo Baggins" target="Galion" id="219" weight="2" />
+      <edge source="Bilbo Baggins" target="Glóin" id="220" weight="17" />
+      <edge source="Bilbo Baggins" target="Gollum" id="221" weight="15" />
+      <edge source="Bilbo Baggins" target="Great Eagle" id="222" weight="7" />
+      <edge source="Bilbo Baggins" target="Great Goblin" id="223" weight="6" />
+      <edge source="Bilbo Baggins" target="Kíli" id="224" weight="27" />
+      <edge source="Bilbo Baggins" target="Master of Lake-town" id="225" weight="6" />
+      <edge source="Bilbo Baggins" target="Nori" id="226" weight="11" />
+      <edge source="Bilbo Baggins" target="Óin" id="227" weight="15" />
+      <edge source="Bilbo Baggins" target="Ori" id="228" weight="7" />
+      <edge source="Bilbo Baggins" target="Thranduil" id="229" weight="2" />
+      <edge source="Bilbo Baggins" target="Tom" id="230" weight="7" />
+      <edge source="Bilbo Baggins" target="William" id="231" weight="6" />
+      <edge source="Bofur" target="Bombur" id="232" weight="15" />
+      <edge source="Bofur" target="Dáin Ironfoot" id="233" weight="2" />
+      <edge source="Bofur" target="Dori" id="234" weight="8" />
+      <edge source="Bofur" target="Dwalin" id="235" weight="9" />
+      <edge source="Bofur" target="Fíli" id="236" weight="12" />
+      <edge source="Bofur" target="Glóin" id="237" weight="8" />
+      <edge source="Bofur" target="Kíli" id="238" weight="12" />
+      <edge source="Bofur" target="Master of Lake-town" id="239" weight="1" />
+      <edge source="Bofur" target="Nori" id="240" weight="10" />
+      <edge source="Bofur" target="Óin" id="241" weight="8" />
+      <edge source="Bofur" target="Ori" id="242" weight="7" />
+      <edge source="Bofur" target="Tom" id="243" weight="1" />
+      <edge source="Bofur" target="William" id="244" weight="1" />
+      <edge source="Bolg" target="Bombur" id="245" weight="1" />
+      <edge source="Bolg" target="Dáin Ironfoot" id="246" weight="4" />
+      <edge source="Bolg" target="Fíli" id="247" weight="1" />
+      <edge source="Bolg" target="Great Eagle" id="248" weight="2" />
+      <edge source="Bolg" target="Great Goblin" id="249" weight="1" />
+      <edge source="Bolg" target="Kíli" id="250" weight="1" />
+      <edge source="Bombur" target="Dáin Ironfoot" id="251" weight="4" />
+      <edge source="Bombur" target="Dori" id="252" weight="10" />
+      <edge source="Bombur" target="Dwalin" id="253" weight="9" />
+      <edge source="Bombur" target="Fíli" id="254" weight="16" />
+      <edge source="Bombur" target="Glóin" id="255" weight="8" />
+      <edge source="Bombur" target="Great Eagle" id="256" weight="1" />
+      <edge source="Bombur" target="Kíli" id="257" weight="16" />
+      <edge source="Bombur" target="Master of Lake-town" id="258" weight="1" />
+      <edge source="Bombur" target="Nori" id="259" weight="10" />
+      <edge source="Bombur" target="Óin" id="260" weight="8" />
+      <edge source="Bombur" target="Ori" id="261" weight="7" />
+      <edge source="Bombur" target="Thranduil" id="262" weight="2" />
+      <edge source="Bombur" target="Tom" id="263" weight="2" />
+      <edge source="Bombur" target="William" id="264" weight="2" />
+      <edge source="Bungo Baggins" target="Belladonna Took" id="265" weight="1" />
+      <edge source="Bungo Baggins" target="Dwalin" id="266" weight="1" />
+      <edge source="Carc" target="Dáin Ironfoot" id="267" weight="1" />
+      <edge source="Dáin Ironfoot" target="Dori" id="268" weight="2" />
+      <edge source="Dáin Ironfoot" target="Dwalin" id="269" weight="2" />
+      <edge source="Dáin Ironfoot" target="Fíli" id="270" weight="3" />
+      <edge source="Dáin Ironfoot" target="Glóin" id="271" weight="2" />
+      <edge source="Dáin Ironfoot" target="Great Eagle" id="272" weight="2" />
+      <edge source="Dáin Ironfoot" target="Great Goblin" id="273" weight="1" />
+      <edge source="Dáin Ironfoot" target="Kíli" id="274" weight="3" />
+      <edge source="Dáin Ironfoot" target="Master of Lake-town" id="275" weight="1" />
+      <edge source="Dáin Ironfoot" target="Nori" id="276" weight="2" />
+      <edge source="Dáin Ironfoot" target="Óin" id="277" weight="2" />
+      <edge source="Dáin Ironfoot" target="Ori" id="278" weight="2" />
+      <edge source="Dori" target="Dwalin" id="279" weight="7" />
+      <edge source="Dori" target="Fíli" id="280" weight="10" />
+      <edge source="Dori" target="Glóin" id="281" weight="9" />
+      <edge source="Dori" target="Great Eagle" id="282" weight="2" />
+      <edge source="Dori" target="Great Goblin" id="283" weight="1" />
+      <edge source="Dori" target="Kíli" id="284" weight="10" />
+      <edge source="Dori" target="Master of Lake-town" id="285" weight="1" />
+      <edge source="Dori" target="Nori" id="286" weight="9" />
+      <edge source="Dori" target="Óin" id="287" weight="9" />
+      <edge source="Dori" target="Ori" id="288" weight="7" />
+      <edge source="Dori" target="Tom" id="289" weight="1" />
+      <edge source="Dori" target="William" id="290" weight="1" />
+      <edge source="Dwalin" target="Fíli" id="291" weight="10" />
+      <edge source="Dwalin" target="Glóin" id="292" weight="7" />
+      <edge source="Dwalin" target="Gollum" id="293" weight="1" />
+      <edge source="Dwalin" target="Kíli" id="294" weight="10" />
+      <edge source="Dwalin" target="Master of Lake-town" id="295" weight="1" />
+      <edge source="Dwalin" target="Nori" id="296" weight="9" />
+      <edge source="Dwalin" target="Óin" id="297" weight="7" />
+      <edge source="Dwalin" target="Ori" id="298" weight="7" />
+      <edge source="Dwalin" target="Tom" id="299" weight="2" />
+      <edge source="Dwalin" target="William" id="300" weight="1" />
+      <edge source="Elrond" target="Fíli" id="301" weight="2" />
+      <edge source="Elrond" target="Gollum" id="302" weight="1" />
+      <edge source="Elrond" target="Kíli" id="303" weight="1" />
+      <edge source="Fíli" target="Glóin" id="304" weight="12" />
+      <edge source="Fíli" target="Great Eagle" id="305" weight="1" />
+      <edge source="Fíli" target="Great Goblin" id="306" weight="1" />
+      <edge source="Fíli" target="Kíli" id="307" weight="28" />
+      <edge source="Fíli" target="Master of Lake-town" id="308" weight="3" />
+      <edge source="Fíli" target="Nori" id="309" weight="10" />
+      <edge source="Fíli" target="Óin" id="310" weight="12" />
+      <edge source="Fíli" target="Ori" id="311" weight="6" />
+      <edge source="Fíli" target="Thranduil" id="312" weight="1" />
+      <edge source="Fíli" target="Tom" id="313" weight="1" />
+      <edge source="Fíli" target="William" id="314" weight="1" />
+      <edge source="Glóin" target="Bandobras Took" id="315" weight="2" />
+      <edge source="Glóin" target="Great Eagle" id="316" weight="1" />
+      <edge source="Glóin" target="Great Goblin" id="317" weight="1" />
+      <edge source="Glóin" target="Kíli" id="318" weight="12" />
+      <edge source="Glóin" target="Master of Lake-town" id="319" weight="1" />
+      <edge source="Glóin" target="Nori" id="320" weight="9" />
+      <edge source="Glóin" target="Óin" id="321" weight="16" />
+      <edge source="Glóin" target="Ori" id="322" weight="6" />
+      <edge source="Glóin" target="Tom" id="323" weight="1" />
+      <edge source="Glóin" target="William" id="324" weight="2" />
+      <edge source="Gollum" target="Great Goblin" id="325" weight="1" />
+      <edge source="Gollum" target="Master of Lake-town" id="326" weight="1" />
+      <edge source="Great Eagle" target="Kíli" id="327" weight="1" />
+      <edge source="Great Eagle" target="Óin" id="328" weight="1" />
+      <edge source="Kíli" target="Great Goblin" id="329" weight="1" />
+      <edge source="Kíli" target="Master of Lake-town" id="330" weight="3" />
+      <edge source="Kíli" target="Nori" id="331" weight="10" />
+      <edge source="Kíli" target="Óin" id="332" weight="12" />
+      <edge source="Kíli" target="Ori" id="333" weight="6" />
+      <edge source="Kíli" target="Thranduil" id="334" weight="1" />
+      <edge source="Kíli" target="Tom" id="335" weight="1" />
+      <edge source="Kíli" target="William" id="336" weight="1" />
+      <edge source="Master of Lake-town" target="Nori" id="337" weight="1" />
+      <edge source="Master of Lake-town" target="Óin" id="338" weight="1" />
+      <edge source="Master of Lake-town" target="Ori" id="339" weight="1" />
+      <edge source="Master of Lake-town" target="Thranduil" id="340" weight="2" />
+      <edge source="Nori" target="Óin" id="341" weight="9" />
+      <edge source="Nori" target="Ori" id="342" weight="8" />
+      <edge source="Nori" target="Tom" id="343" weight="1" />
+      <edge source="Nori" target="William" id="344" weight="1" />
+      <edge source="Óin" target="Great Goblin" id="345" weight="1" />
+      <edge source="Óin" target="Ori" id="346" weight="6" />
+      <edge source="Óin" target="Tom" id="347" weight="1" />
+      <edge source="Óin" target="William" id="348" weight="2" />
+      <edge source="Ori" target="Tom" id="349" weight="1" />
+      <edge source="Ori" target="William" id="350" weight="1" />
+      <edge source="Tom" target="William" id="351" weight="5" />
+    </edges>
+  </graph>
+</gexf>
